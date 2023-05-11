@@ -1,2 +1,2 @@
 # Multiplayer-Space-Shooter
-Java project coming summer 2021
+Project coming sometime. It's worth the wait.
